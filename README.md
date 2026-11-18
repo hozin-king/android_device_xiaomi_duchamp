@@ -1,2 +1,10 @@
-# android_device_xiaomi_duchamp
-TWRP device tree untuk POCO X6 Pro (duchamp) — fork dari renton16, diperbaiki untuk build via GitHub Actions
+# Android device tree for POCO 2311DRK48G (duchamp)
+
+```
+#
+# Copyright (C) 2024 The Android Open Source Project
+# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
